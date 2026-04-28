@@ -1,7 +1,7 @@
-# Teoria e la programación
+# Teoria de la programación
 
-## unidad1
+## Unidad 1
 
-## unidad2
+## Unidad 2
 
-## unidad3
+## Unidad 3
