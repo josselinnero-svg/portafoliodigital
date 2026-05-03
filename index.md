@@ -1,6 +1,6 @@
 # Teoría de la programación
 
-# Caratula
+# Carátula
 
 <div align="center">
   
@@ -21,9 +21,9 @@ Josselin Estefania Nero Fernandez
 
 **👩‍🏫DOCENTE:** 
 
-Ing. Lissette Geoconda Lopéz Faican
+Ing. Lissette Geoconda López Faican
 
-**PERIDO:**  
+**PERIODO:**  
 Abril-Julio
 
 **FECHA:**  
@@ -36,13 +36,10 @@ Abril-Julio
 </div>
 
 ## Unidad 1
-<div align="center">
 
-
-  
 **Algoritmo:**
 
-Un algoritmo es una secuencia de pasos que se deben de seguir y ejecutarse para obtener un determinado resultado (Es como un mapa conceptual pero las figuras tienen un significado)
+Un algoritmo es una secuencia de pasos que se deben de seguir y ejecutarse para obtener un determinado resultado (Es como un mapa conceptual pero las figuras tienen un significado).
 
 [1]La palabra “algoritmo” proviene del nombre del matemático persa Abu Abdullah Muhammad ibn Musa al-Khwarizmi. En su obra “Kitab al-Jabr wa-l-Muqabala”, el científico describió por primera vez el sistema decimal. Y la ciencia del álgebra recibió su nombre de su libro.
 
@@ -65,29 +62,28 @@ El diagrama de flujo es una representación esquemática de un algoritmo o proce
 
 **Prueba de escritorio:**
 
-Las pruebas de escritorio sirven para comprobar la resolución y resultados de un problema con ello solventamos la duda de que si nuestro codigo se esta ejecutando de manera correcta.
+Las pruebas de escritorio sirven para comprobar la resolución y resultados de un problema con ello solventamos la duda de que si nuestro código se está ejecutando de manera correcta.
 
 ![Banner](https://th.bing.com/th/id/R.6fcbbd7e64058c55457dfed7d02173c7?rik=D3q3NwGCBFtx0w&riu=http%3a%2f%2f1.bp.blogspot.com%2f-0_IY26C9SoI%2fUJsa-gyxrlI%2fAAAAAAAAAAw%2fvE3mUf4Eqks%2fs1600%2falg.png&ehk=DYs7CMpphUFgbHE43F7Hc1Qm2hpM8i9P5qXoQPFuOXI%3d&risl=&pid=ImgRaw&r=0)
-La imagen muestra un ejemplo de una prueba de escritorio.
+
 
 
 **Lenguajes de programación:**
 
 Existen diferentes lenguajes de programación.
 
-PSeInt es una herramienta digital que ayuda a crear algoritmos en pseudocódigo y automáticamente se crea en diagrama de flujo es muy práctica,sirve para entender de manera sencilla programación te enseña que debes colocar, pero con la ventaja de hacerlo en el idioma español.
+PSeInt es una herramienta digital que ayuda a crear algoritmos en pseudocódigo y automáticamente se crea en diagrama de flujo es muy práctica,sirve para entender de manera sencilla programación te enseña qué debes colocar, pero con la ventaja de hacerlo en el idioma español.
 
 “PSEInt.” https://pseint.sourceforge.net/
 
-C es otra herramienta digital que crea algoritmos en psudocidigo este programa tiene codificaciones en ingles, para poder aprender y entender este y otras mas leguaje de programación es recomendables iniciar con PSeInt. A los programadores les encanta este lenguaje por su velocidad y eficiencia, la fortaleza de C reside en su capacidad para convertir las instrucciones de forma directa a código binario, lo que permite una ejecución fiel a la lógica planteada por el programador. Asimismo, destaca por su gestión optimizada de los recursos de hardware del sistema.
-Tenemos que copilar con gcc archivo.c -o archivo y ejecutar con .\archivo.exe (Etos pasos son muy importantes).
+C es otra herramienta digital que crea algoritmos en pseudocódigo este programa tiene codificaciones en ingles, para poder aprender y entender este y otros lenguajes de programación, es recomendables iniciar con PSeInt. A los programadores les encanta este lenguaje (C) por su velocidad y eficiencia, la fortaleza de C reside en su capacidad para convertir las instrucciones de forma directa a código binario, lo que permite una ejecución fiel a la lógica planteada por el programador. Asi mismo, destaca por su gestión optimizada de los recursos de hardware del sistema.
+Tenemos que compilar con gcc archivo.c -o archivo y ejecutar con .\archivo.exe (Estos pasos son muy importantes).
 
 **Programación por Bloques**
 
-La programación por bloques parecido a un juego te enseña procesos codigos y mucho mas.
+La programación por bloques parecido a un juego te enseña procesos, codigos y mucho más.
 
-A continuación muestro un video de un ejercico que realize 
-
+A continuación muestro un video de un ejercicio que realicé:
 <div align="center">
 
 
@@ -109,9 +105,9 @@ Sistema de Conversión de Unidades de Almacenamiento Digital
 
 **Pregunta:** 
 
-"Desarrollar un programa en lenguaje C que permita a un usuario ingresar una cantidad de almacenamiento expresada en Megabytes (MB). El programa debe realizar las conversiones necesarias para mostrar el equivalente de dicha cantidad en Kilobytes (KB), Bytes (B) y Bits (b).
+"Desarrollar un programa en lenguaje C y PSeInt que permita a un usuario ingresar una cantidad de almacenamiento expresada en Megabytes (MB). El programa debe realizar las conversiones necesarias para mostrar el equivalente de dicha cantidad en Kilobytes (KB), Bytes (B) y Bits (b).
 
-Para el cálculo, se considera las siguientes equivalencias técnicas:
+Para el cálculo, se consideran las siguientes equivalencias técnicas:
 
 * 1 MEGABYTE = 1024 KILOBYTES
 * 1 KILOBYTE = 1024 BYTES
@@ -119,12 +115,12 @@ Para el cálculo, se considera las siguientes equivalencias técnicas:
 
 El sistema debe imprimir en pantalla cada resultado de forma organizada, asegurando el uso de tipos de datos adecuados para mantener la precisión de los valores calculados.
 
-Vamos a proceder a realizar el psudocodigo y el diagram de flujo en PSeInt:
+Vamos a proceder a realizar el pseudocódigo y el diagrama de flujo en PSeInt:
 
-* Identificamos los datos entrada
+* Identificamos los datos de entrada
 * Definimos Variables
 
-Podemos observar aui el pseudocódigo 
+Podemos observar aquí el pseudocódigo.
 <img width="780" height="759" alt="image" src="https://github.com/user-attachments/assets/a9f1c775-3ac6-4aad-8361-7a219396b151" />
 
 * El diagrama de flujo
@@ -134,13 +130,13 @@ Podemos observar aui el pseudocódigo
 
  * A continuación vamos a C
 
- En c la programación es el ingles 
+ En c la programación es el inglés 
  
  <img width="839" height="657" alt="image" src="https://github.com/user-attachments/assets/6c288089-9b32-4725-a727-7193162c7449" />
 
- Es lo mismo que tenemos en pseint solo que en el lenguaje C
+ Es lo mismo que tenemos en PseInt solo que en el lenguaje C
 
- * Prueba de escritorio 
+ * Prueba de escritorio
 
 
 | Paso | Acción | Variable MB | Variable KB | Variable BT | Variable Bits | Salida (Pantalla) |
@@ -153,25 +149,33 @@ Podemos observar aui el pseudocódigo
 | 6 | Calcular bits | 6.0 | 6144.0 | 6291456.0 | 50331648.0 | "El resultado en bits... 50331648" |
 | 7 | Fin Algoritmo | 6.0 | 6144.0 | 6291456.0 | 50331648.0 | - |
 
-*Verificamos en ambas herramientas de programación
-**Pseint** 
+* Verificamos en ambas herramientas de programación
+**Pseint :** 
 
 <img width="589" height="298" alt="image" src="https://github.com/user-attachments/assets/393327c9-832c-4c4c-bd7c-ad8ce360619c" />
 
-**C :** En el lenguaje C tenemos que coilar y ejecutar
+**C :** 
+En el lenguaje C tenemos que compilar y ejecutar.
 
 <img width="981" height="240" alt="image" src="https://github.com/user-attachments/assets/8947b817-62c4-4e7c-b8ad-5ac184389b3c" />
 
-Como podemos observar todo esta en lo correcto 
+Como podemos observar todo esta en lo correcto.
 
 ### Reflexión
-Durante esta unidad, he profundizado en conceptos fundamentales de programación y en el manejo de herramientas esenciales para el desarrollo de software. PSeInt ha resultado ser una plataforma excepcional para la introducción al pensamiento algorítmico, facilitando la comprensión de la definición de variables, la estructura secuencial y el ciclo de entrada-proceso-salida. Asi mismo, la representación mediante diagramas de flujo ha sido clave para visualizar la lógica de control de manera clara. Por otro lado, la transición al lenguaje C ha permitido identificar las ventajas de un lenguaje de alto rendimiento, destacando que, aunque cada herramienta posee su propia sintaxis, la base lógica es universal e indispensable para el aprendizaje autónomo
+Durante esta unidad, he profundizado en conceptos fundamentales de programación y en el manejo de herramientas esenciales para el desarrollo de software. PSeInt ha resultado ser una plataforma excepcional para la introducción al pensamiento algorítmico, facilitando la comprensión de la definición de variables, la estructura secuencial y el ciclo de entrada-proceso-salida. Asi mismo, la representación mediante diagramas de flujo ha sido clave para visualizar la lógica de control de manera clara. Por otro lado, la transición al lenguaje C ha permitido identificar las ventajas de un lenguaje de alto rendimiento, destacando que, aunque cada herramienta posee su propia sintaxis, la base lógica es universal e indispensable para el aprendizaje autónomo.
+
+**Declaración uso de IA**
+
+Yo, Josselin Estefanía Nero Fernández, estudiante del primer ciclo de la carrera de Ingeniería en Ciencias de la Computación en la Universidad Nacional de Loja, declaro haber utilizado herramientas de Inteligencia Artificial como apoyo técnico. Este recurso fue empleado exclusivamente para optimizar la estructura del documento, incluyendo el diseño de tablas, la inserción de imágenes y la organización de espaciados, garantizando así una presentación académica profesional.
+
 
 
 </div>
 
 ---
-**🔗 Fuente consultada:**  
+## Bibliografía
+
+**🔗 Fuentes de consulta:**  
 [Qué son los Algoritmos: Tipos y Guía completa - CodigoNautas](https://codigonautas.com/que-son-algoritmos/)  
 *Publicado por L. Byte el 16 de septiembre de 2025.*
 
@@ -181,8 +185,9 @@ Durante esta unidad, he profundizado en conceptos fundamentales de programación
 [Qué es C: Comandos Básicos y Ejemplos - CodigoNautas](https://codigonautas.com/que-es-c/)  
 *Autor: L. Byte (22 de abr. 2025)*
 
-**Declaración uso de IA**
-Yo, Josselin Estefanía Nero Fernández, estudiante del primer ciclo de la carrera de Ingeniería en Ciencias de la Computación en la Universidad Nacional de Loja, declaro haber utilizado herramientas de Inteligencia Artificial como apoyo técnico. Este recurso fue empleado exclusivamente para optimizar la estructura del documento, incluyendo el diseño de tablas, la inserción de imágenes y la organización de espaciados, garantizando así una presentación académica profesional.
+
+</div>
+---
 
 ## Unidad 2
 
