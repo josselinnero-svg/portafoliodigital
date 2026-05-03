@@ -20,6 +20,7 @@ Teoría de la Programación
 Josselin Estefania Nero Fernandez
 
 **👩‍🏫DOCENTE:** 
+
 Ing. Lissette Geoconda Lopéz Faican
 
 **PERIDO:**  
@@ -79,6 +80,7 @@ PSeInt es una herramienta digital que ayuda a crear algoritmos en pseudocódigo 
 “PSEInt.” https://pseint.sourceforge.net/
 
 C es otra herramienta digital que crea algoritmos en psudocidigo este programa tiene codificaciones en ingles, para poder aprender y entender este y otras mas leguaje de programación es recomendables iniciar con PSeInt. A los programadores les encanta este lenguaje por su velocidad y eficiencia, la fortaleza de C reside en su capacidad para convertir las instrucciones de forma directa a código binario, lo que permite una ejecución fiel a la lógica planteada por el programador. Asimismo, destaca por su gestión optimizada de los recursos de hardware del sistema.
+Tenemos que copilar con gcc archivo.c -o archivo y ejecutar con .\archivo.exe (Etos pasos son muy importantes).
 
 **Programación por Bloques**
 
@@ -100,6 +102,69 @@ El video muestra como el personaje del programa sigue intrucciones que el usuari
 </div>
 
 ---
+
+
+## **Enunciado del Problema:**
+
+Sistema de Conversión de Unidades de Almacenamiento Digital
+
+**Pregunta:** 
+
+"Desarrollar un programa en lenguaje C que permita a un usuario ingresar una cantidad de almacenamiento expresada en Megabytes (MB). El programa debe realizar las conversiones necesarias para mostrar el equivalente de dicha cantidad en Kilobytes (KB), Bytes (B) y Bits (b).
+
+Para el cálculo, se considera las siguientes equivalencias técnicas:
+
+* 1 MEGABYTE = 1024 KILOBYTES
+* 1 KILOBYTE = 1024 BYTES
+* 1 BYTE = 8 BITS
+
+El sistema debe imprimir en pantalla cada resultado de forma organizada, asegurando el uso de tipos de datos adecuados para mantener la precisión de los valores calculados."
+Vamos a proceder a realizar el psudocodigo y el diagram de flujo en PSeInt:
+*Identificamos los datos entrada
+*Definimos Variables
+
+Podemos observar aui el pseudocódigo 
+<img width="780" height="759" alt="image" src="https://github.com/user-attachments/assets/a9f1c775-3ac6-4aad-8361-7a219396b151" />
+
+*El diagrama de flujo
+
+<img width="355" height="681" alt="image" src="https://github.com/user-attachments/assets/0dcc3317-b571-4da6-a39e-f85dfec0aa2e" />
+ Con el diagram de flujo identificamos todo lo que describimos en pseudocódigo 
+
+ *A continuación vamos a C 
+ En c la programación es el ingles 
+ 
+ <img width="839" height="657" alt="image" src="https://github.com/user-attachments/assets/6c288089-9b32-4725-a727-7193162c7449" />
+
+ Es lo mismo que tenemos en pseint solo que en el lenguaje C
+
+ *Prueba de escritorio 
+
+
+| Paso | Acción | Variable MB | Variable KB | Variable BT | Variable Bits | Salida (Pantalla) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Inicio | null | null | null | null | - |
+| 2 | Definir variables | 0.0 | 0.0 | 0.0 | 0.0 | - |
+| 3 | Leer MB | 6.0 | 0.0 | 0.0 | 0.0 | "Ingrese su cantidad..." |
+| 4 | Calcular KB | 6.0 | 6144.0 | 0.0 | 0.0 | "El resultado en kilob... 6144" |
+| 5 | Calcular BT | 6.0 | 6144.0 | 6291456.0 | 0.0 | "El resultado en bytes... 6291456" |
+| 6 | Calcular bits | 6.0 | 6144.0 | 6291456.0 | 50331648.0 | "El resultado en bits... 50331648" |
+| 7 | Fin Algoritmo | 6.0 | 6144.0 | 6291456.0 | 50331648.0 | - |
+
+*Verificamos en ambas herramientas de programación
+**Pseint** 
+
+<img width="589" height="298" alt="image" src="https://github.com/user-attachments/assets/393327c9-832c-4c4c-bd7c-ad8ce360619c" />
+
+**C :** En el lenguaje C tenemos que coilar y ejecutar
+
+<img width="981" height="240" alt="image" src="https://github.com/user-attachments/assets/8947b817-62c4-4e7c-b8ad-5ac184389b3c" />
+
+Como podemos observar todo esta en lo correcto 
+
+## Reflexión
+
+
 
 </div>
 
