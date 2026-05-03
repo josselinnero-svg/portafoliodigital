@@ -95,9 +95,8 @@ A continuación muestro un video de un ejercico que realize
 
 *Haz clic en la imagen para reproducir el video explicativo.*
 
----
 
-El video muestra como el personaje del programa sigue intrucciones que el usuario ubica pero claro para el program te muestra el camino que se debe seguir y nosotros debemos colocar las instrucciones para que el personaje llegue a la meta.
+A través de esta dinámica, se observa cómo el software actúa como un entorno de ejecución donde el personaje sigue una serie de directrices predefinidas. Aunque el sistema muestra el objetivo final, la responsabilidad del desarrollador radica en estructurar las instrucciones lógicas necesarias para alcanzar la meta. Este ejercicio refleja fielmente el proceso de programación secuencial, donde el orden y la precisión de cada comando determinan el éxito del proceso.
 
 </div>
 
@@ -118,27 +117,30 @@ Para el cálculo, se considera las siguientes equivalencias técnicas:
 * 1 KILOBYTE = 1024 BYTES
 * 1 BYTE = 8 BITS
 
-El sistema debe imprimir en pantalla cada resultado de forma organizada, asegurando el uso de tipos de datos adecuados para mantener la precisión de los valores calculados."
+El sistema debe imprimir en pantalla cada resultado de forma organizada, asegurando el uso de tipos de datos adecuados para mantener la precisión de los valores calculados.
+
 Vamos a proceder a realizar el psudocodigo y el diagram de flujo en PSeInt:
-*Identificamos los datos entrada
-*Definimos Variables
+
+* Identificamos los datos entrada
+* Definimos Variables
 
 Podemos observar aui el pseudocódigo 
 <img width="780" height="759" alt="image" src="https://github.com/user-attachments/assets/a9f1c775-3ac6-4aad-8361-7a219396b151" />
 
-*El diagrama de flujo
+* El diagrama de flujo
 
 <img width="355" height="681" alt="image" src="https://github.com/user-attachments/assets/0dcc3317-b571-4da6-a39e-f85dfec0aa2e" />
  Con el diagram de flujo identificamos todo lo que describimos en pseudocódigo 
 
- *A continuación vamos a C 
+ * A continuación vamos a C
+
  En c la programación es el ingles 
  
  <img width="839" height="657" alt="image" src="https://github.com/user-attachments/assets/6c288089-9b32-4725-a727-7193162c7449" />
 
  Es lo mismo que tenemos en pseint solo que en el lenguaje C
 
- *Prueba de escritorio 
+ * Prueba de escritorio 
 
 
 | Paso | Acción | Variable MB | Variable KB | Variable BT | Variable Bits | Salida (Pantalla) |
@@ -162,8 +164,8 @@ Podemos observar aui el pseudocódigo
 
 Como podemos observar todo esta en lo correcto 
 
-## Reflexión
-
+### Reflexión
+Durante esta unidad, he profundizado en conceptos fundamentales de programación y en el manejo de herramientas esenciales para el desarrollo de software. PSeInt ha resultado ser una plataforma excepcional para la introducción al pensamiento algorítmico, facilitando la comprensión de la definición de variables, la estructura secuencial y el ciclo de entrada-proceso-salida. Asi mismo, la representación mediante diagramas de flujo ha sido clave para visualizar la lógica de control de manera clara. Por otro lado, la transición al lenguaje C ha permitido identificar las ventajas de un lenguaje de alto rendimiento, destacando que, aunque cada herramienta posee su propia sintaxis, la base lógica es universal e indispensable para el aprendizaje autónomo
 
 
 </div>
@@ -178,6 +180,9 @@ Como podemos observar todo esta en lo correcto
 
 [Qué es C: Comandos Básicos y Ejemplos - CodigoNautas](https://codigonautas.com/que-es-c/)  
 *Autor: L. Byte (22 de abr. 2025)*
+
+**Declaración uso de IA**
+Yo, Josselin Estefanía Nero Fernández, estudiante del primer ciclo de la carrera de Ingeniería en Ciencias de la Computación en la Universidad Nacional de Loja, declaro haber utilizado herramientas de Inteligencia Artificial como apoyo técnico. Este recurso fue empleado exclusivamente para optimizar la estructura del documento, incluyendo el diseño de tablas, la inserción de imágenes y la organización de espaciados, garantizando así una presentación académica profesional.
 
 ## Unidad 2
 
