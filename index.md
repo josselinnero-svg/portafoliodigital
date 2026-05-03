@@ -95,6 +95,8 @@ A continuación muestro un video de un ejercico que realize
 
 ---
 
+El video muestra como el personaje del programa sigue intrucciones que el usuario ubica pero claro para el program te muestra el camino que se debe seguir y nosotros debemos colocar las instrucciones para que el personaje llegue a la meta.
+
 </div>
 
 ---
