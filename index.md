@@ -33,22 +33,12 @@ Abril-Julio
 
 
 ---
-## Bibliografía
+## Portafolio 
 
-**🔗 Fuentes de consulta:**  
-[Qué son los Algoritmos: Tipos y Guía completa - CodigoNautas](https://codigonautas.com/que-son-algoritmos/)  
-*Publicado por L. Byte el 16 de septiembre de 2025.*
-
-[Qué es pseudocódigo y por qué es esencial en programación - OpenWebinars](https://openwebinars.net/blog/que-es-pseudocodigo/)  
-*Autor: A. Robledano (23 de sept. 2024)*
-
-[Qué es C: Comandos Básicos y Ejemplos - CodigoNautas](https://codigonautas.com/que-es-c/)  
-*Autor: L. Byte (22 de abr. 2025)*
+<p align="center">
+*<strong><a href="Portafolio.md">INICIO</a></strong>*
+</p>
 
 
 </div>
 ---
-
-## Unidad 2
-
-## Unidad 3
