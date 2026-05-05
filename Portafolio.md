@@ -39,6 +39,11 @@ Programación modular y estructuras de datos estáticos
 </div>
 ---
 
+## Indice
+
+<p align="center">
+*<strong><a href="índice.md">ÍNDICE</a></strong>*
+</p>
 
 
 
