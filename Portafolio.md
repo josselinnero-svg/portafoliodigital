@@ -42,7 +42,7 @@ Programación modular y estructuras de datos estáticos
 ## Indice
 
 <p align="center">
-*<strong><a href="índice.md">ÍNDICE</a></strong>*
+*<strong><a href="index.md">ÍNDICE</a></strong>*
 </p>
 
 
