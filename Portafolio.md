@@ -39,6 +39,10 @@ Programación modular y estructuras de datos estáticos
 [Qué es C: Comandos Básicos y Ejemplos - CodigoNautas](https://codigonautas.com/que-es-c/)  
 *Autor: L. Byte (22 de abr. 2025)*
 
+R. Pérez López, "Programación estructurada," Apuntes de clase, IES Doñana, Almonte, España, mayo 2026.
+
+M. Vital-Carrillo, "Estructuras de control para la programación," Vida Científica Boletín de la Escuela Preparatoria No. 4, no. 13, pp. 1-10, 2019
+
 
 </div>
 ---
