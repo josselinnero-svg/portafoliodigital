@@ -9,14 +9,18 @@
 
 ---
 ## Unidad 1 
-Inmersión a la programación 
+Inmersión a la programación.
 <p align="center">
 *<strong><a href="Unidad1.md">Unidad1</a></strong>*
 </p>
 
 ## Unidad 2
 
-Estructuras algorítmicas de control
+estructuras condicionales y repetitivas en programas.
+<p align="center">
+*<strong><a href="Unidad2.md">Unidad2</a></strong>*
+</p>
+
 
 ## Unidad 3 
 
