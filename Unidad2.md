@@ -48,6 +48,9 @@ Diagrama de flujo: El rombo de condición está al inicio del bucle. Si es verda
 
 Pseudocódigo: Mientras condición hacer Realizar instrucciones Fin Mientras
 
+<img width="499" height="250" alt="image" src="https://github.com/user-attachments/assets/d5de49c9-e085-47d1-b12f-8db4522ca752" />
+
+
 * Hacer Mientras (Do-While): Similar al "mientras", pero las instrucciones se ejecutan al menos una vez, ya que la condición se evalúa al final
 
 Diagrama de flujo: El bloque de instrucciones va primero, seguido por el rombo de condición
@@ -56,15 +59,18 @@ Diagrama de flujo: El bloque de instrucciones va primero, seguido por el rombo d
 
 Pseudocódigo: Hacer Realizar instrucciones Mientras condición Fin Mientras
 
+<img width="436" height="283" alt="image" src="https://github.com/user-attachments/assets/2abf2476-4926-4697-853f-b4e52890efae" />
+
+
 * Desde/Para (For): Se utiliza cuando se conoce de antemano el número de iteraciones. Utiliza una variable índice, un valor inicial y un valor final
 Diagrama de flujo: Incluye la inicialización del índice, la comparación con el valor final, la ejecución de instrucciones y el incremento automático del índice.
 
 <img width="475" height="367" alt="image" src="https://github.com/user-attachments/assets/24eceabf-396f-4d5a-9a7b-56f74683262b" />
 
 Pseudocódigo: para vo asignar vi hasta vf incrementar hacer realizar instrucciones fin para
-  
-</blockquote>
-</details>
+
+<img width="470" height="196" alt="image" src="https://github.com/user-attachments/assets/4d8a9868-3b11-4600-a5e4-65ee0189bd44" />
+
 
 * Conclusión
 Principales Dificultades
@@ -72,6 +78,9 @@ La mayor dificultad radicó en la integración de estructuras, específicamente 
 
 * Reflexión Crítica
 El uso combinado de bucles y condicionales es lo que permite crear programas dinámicos y útiles. A pesar de la dificultad inicial, comprendí que la programación real consiste en gestionar estados: el while mantiene el sistema vivo, mientras que el if gestiona las reglas del negocio. Esta práctica fue clave para desarrollar un pensamiento lógico más estructurado, pasando de seguir instrucciones simples a diseñar procesos automáticos que reaccionan a diferentes entradas del usuario.
+  
+</blockquote>
+</details>
 
 ---
 
