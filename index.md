@@ -40,12 +40,12 @@ Abril-Julio
 
 ## Unidad 1
 <p align="center">
-*<strong><a href="Unidad1">Unidad1</a></strong>*
+*<strong><a href="Unidad1.md">Unidad1</a></strong>*
 </p>
 
 ## Unidad 2
 <p align="center">
-*<strong><a href="Unidad2">Unidad2</a></strong>*
+*<strong><a href="Unidad2.md">Unidad2</a></strong>*
 </p>
 
 ## Unidad 3
