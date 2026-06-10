@@ -138,7 +138,8 @@ Yo, Josselin Estefanía Nero Fernández, estudiante del primer ciclo de la carre
 </div>
 
 ---
-## Portafolio 
+## Indice
 <p align="center">
-*<strong><a href="Portafolio.md">INICIO</a></strong>*
+*<strong><a href="index.md">ÍNDICE</a></strong>*
 </p>
+
