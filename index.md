@@ -24,9 +24,6 @@
 
 ## Portafolio 
 
-<p align="center">
-*<strong><a href="Portafolio.md">INICIO</a></strong>*
-</p>
 
 ## Unidad 1 🎲
 <p align="center">
