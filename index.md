@@ -51,6 +51,8 @@ R. Pérez López, "Programación estructurada," Apuntes de clase, IES Doñana, A
 
 M. Vital-Carrillo, "Estructuras de control para la programación," Vida Científica Boletín de la Escuela Preparatoria No. 4, no. 13, pp. 1-10, 2019
 
+Guerra Salazar, J. E, Ramos Valencia,M. V, Vallejo Vallejo, G. E. (2023). Programando en C desde la práctica problemas resueltos. Puerto Madero Editorial. Disponible en: https://dialnet.unirioja.es/servlet/libro?codigo=933288 
+
 </div>
 
 ## Declaración de IA
