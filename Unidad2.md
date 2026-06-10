@@ -60,14 +60,34 @@ Pseudocódigo: Hacer Realizar instrucciones Mientras condición Fin Mientras
 Diagrama de flujo: Incluye la inicialización del índice, la comparación con el valor final, la ejecución de instrucciones y el incremento automático del índice.
 
 <img width="475" height="367" alt="image" src="https://github.com/user-attachments/assets/24eceabf-396f-4d5a-9a7b-56f74683262b" />
-tico del índice
-
 
 Pseudocódigo: para vo asignar vi hasta vf incrementar hacer realizar instrucciones fin para
   
 </blockquote>
 </details>
 ---
+
+## Ejercicio
+
+### Sistema de Caja Registradora Automatizada
+
+Se va a programar un sistema de cobro de una tienda local. El programa debe registrar las compras de un cliente, artículo por artículo, aplicar un descuento si se cumple una condición especial, y detenerse cuando ya no haya más productos por registrar.
+Por cada artículo, el programa solicitará el Precio del producto y la Cantidad que lleva el cliente.
+
+Para incentivar las compras grandes, la tienda aplica una promoción:
+
+* Descuento del 15%: Si el precio del producto es mayor a $20 y la cantidad de unidades de ese mismo producto es mayor o igual a 3.Sin descuento: Si no se cumplen ambas condiciones, el producto se cobra a precio normal (Precio * Cantidad).
+* El programa debe usar un bucle para permitir al usuario ingresar un producto tras otro.
+
+* En cada iteración, el sistema debe calcular el subtotal de ese producto (aplicando el descuento si corresponde) e irlo sumando a una variable acumuladora llamada total_pagar.
+
+* El bucle continuará repitiéndose mientras el Precio del producto ingresado sea mayor que 0. Si el usuario ingresa un precio de 0, el programa entiende que la compra terminó.
+
+* Al salir del bucle, el programa debe mostrar en pantalla el valor final que el cliente debe cancelar.
+
+
+---
+
 ## Portafolio 
 <p align="center">
 *<strong><a href="Portafolio.md">INICIO</a></strong>*
