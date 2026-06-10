@@ -36,8 +36,13 @@
 </p>
 
 ## Unidad 3 🧩
+  
 ## Bibliografia
-**🔗 Fuentes de consulta:**  
+
+<details>
+<summary><b>🔗 Fuentes de consulta: (Selectivas)</b></summary>
+<blockquote> 
+ 
 [Qué son los Algoritmos: Tipos y Guía completa - CodigoNautas](https://codigonautas.com/que-son-algoritmos/)  
 *Publicado por L. Byte el 16 de septiembre de 2025.*
 
@@ -55,6 +60,18 @@ Guerra Salazar, J. E, Ramos Valencia,M. V, Vallejo Vallejo, G. E. (2023). Progra
 
 </div>
 
+</blockquote>
+</details>
+
+---
+
 ## Declaración de IA
 
+<details>
+<summary><b>🍀 Su utilización (Selectivas)</b></summary>
+<blockquote> 
+
 Yo, Josselin Estefanía Nero Fernández, estudiante del primer ciclo de la carrera de Ingeniería en Ciencias de la Computación en la Universidad Nacional de Loja, declaro haber utilizado herramientas de Inteligencia Artificial como apoyo técnico. Este recurso fue empleado exclusivamente para optimizar la estructura del documento, incluyendo el diseño de tablas, la inserción de imágenes y la organización de espaciados, garantizando así una presentación académica profesional.
+
+</blockquote>
+</details>
