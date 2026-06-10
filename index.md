@@ -28,17 +28,17 @@
 *<strong><a href="Portafolio.md">INICIO</a></strong>*
 </p>
 
-## Unidad 1
+## Unidad 1 🎲
 <p align="center">
 *<strong><a href="Unidad1.md">Unidad1</a></strong>*
 </p>
 
-## Unidad 2
+## Unidad 2 🕹️
 <p align="center">
 *<strong><a href="Unidad2.md">Unidad2</a></strong>*
 </p>
 
-## Unidad 3
+## Unidad 3 🧩
 ## Bibliografia
 **🔗 Fuentes de consulta:**  
 [Qué son los Algoritmos: Tipos y Guía completa - CodigoNautas](https://codigonautas.com/que-son-algoritmos/)  
