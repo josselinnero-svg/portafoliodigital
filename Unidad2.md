@@ -4,7 +4,6 @@
 <summary><b>🔮 Estructuras Condicionales (Selectivas)</b></summary>
 <blockquote>
 Estas estructuras permiten tomar decisiones dentro de un programa evaluando una expresión lógica
-<details>
   ♦️ Tipos de estructuras selectivas     
 * Simple: Evalúa una condición. Si es verdadera, ejecuta una instrucción; si es falsa, no hace nada
 Diagrama de flujo: Se representa con un rombo para la condición. Si es "Verdadera", baja a la instrucción; si es "Falsa", salta directamente al final.
@@ -36,24 +35,31 @@ Pseudocódigo: Consiste en una serie de estructuras Si... entonces... sino una d
 Permiten repetir un conjunto de instrucciones un número determinado de veces o mientras se cumpla una condición
 
   
-🍄 Tipos de estructuras selectivas
+  🍄 Tipos de estructuras selectivas
 
 * Mientras (While): El bucle se repite mientras la condición sea verdadera. Si la condición es falsa desde el inicio, las instrucciones nunca se ejecutan
   
 Diagrama de flujo: El rombo de condición está al inicio del bucle. Si es verdadera, ejecuta la instrucción y vuelve a la condición
-<img width="187" height="184" alt="image" src="https://github.com/user-attachments/assets/a080c765-26a2-42ea-9077-0aa1eb68fa58" />
+
+<img width="407" height="388" alt="image" src="https://github.com/user-attachments/assets/6c15a317-95ec-4bea-8c0a-643845a88bae" />
+
 
 Pseudocódigo: Mientras condición hacer Realizar instrucciones Fin Mientras
 
 * Hacer Mientras (Do-While): Similar al "mientras", pero las instrucciones se ejecutan al menos una vez, ya que la condición se evalúa al final
 
 Diagrama de flujo: El bloque de instrucciones va primero, seguido por el rombo de condición
+
+<img width="342" height="356" alt="image" src="https://github.com/user-attachments/assets/e87aa1f9-2fcc-4af2-acd7-f7914f3cf0c7" />
+
 Pseudocódigo: Hacer Realizar instrucciones Mientras condición Fin Mientras
-<img width="155" height="165" alt="image" src="https://github.com/user-attachments/assets/7c09511b-57c5-468a-86ad-ac0615b676d8" />
 
 * Desde/Para (For): Se utiliza cuando se conoce de antemano el número de iteraciones. Utiliza una variable índice, un valor inicial y un valor final
-Diagrama de flujo: Incluye la inicialización del índice, la comparación con el valor final, la ejecución de instrucciones y el incremento automático del índice
-<img width="160" height="110" alt="image" src="https://github.com/user-attachments/assets/728f4642-adf7-4895-83a7-f6127b4c2e0f" />
+Diagrama de flujo: Incluye la inicialización del índice, la comparación con el valor final, la ejecución de instrucciones y el incremento automático del índice.
+
+<img width="475" height="367" alt="image" src="https://github.com/user-attachments/assets/24eceabf-396f-4d5a-9a7b-56f74683262b" />
+tico del índice
+
 
 Pseudocódigo: para vo asignar vi hasta vf incrementar hacer realizar instrucciones fin para
   
