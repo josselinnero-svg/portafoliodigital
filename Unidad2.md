@@ -1,4 +1,4 @@
-## Unidad2
+## Unidad 2
 
 <details>
 <summary><b>🔮 Estructuras Condicionales (Selectivas)</b></summary>
@@ -101,6 +101,29 @@ Para incentivar las compras grandes, la tienda aplica una promoción:
 * El bucle continuará repitiéndose mientras el Precio del producto ingresado sea mayor que 0. Si el usuario ingresa un precio de 0, el programa entiende que la compra terminó.
 
 * Al salir del bucle, el programa debe mostrar en pantalla el valor final que el cliente debe cancelar.
+
+Identificamos los datos de entrada  y elaboramos el codigo en C 
+<img width="908" height="897" alt="image" src="https://github.com/user-attachments/assets/12446802-3b4f-4db7-9514-9eb372077750" />
+
+#### Prueba de Escritorio - Simulador de Caja Registradora
+
+A continuación se detalla el seguimiento paso a paso de las variables durante la ejecución del programa basándose en los datos ingresados en la terminal.
+
+| Iteración | Entrada: Precio (`precio`) | Entrada: Cantidad (`cantidad`) | Condición Descuento (`precio > 20 && cantidad >= 3`) | Subtotal del Artículo | Acumulador: Total a Pagar (`total_pagar`) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **Inicio** | - | - | - | - | $0.00 |
+| **1** | 10.0 | 3 | Falso (Precio no es > 20) | 10 * 3 = **30.00** | 0.00 + 30.00 = **30.00** |
+| **2** | 30.0 | 3 | **Verdadero** (Aplica 15%) | (30 * 3) * 0.85 = **76.50** | 30.00 + 76.50 = **106.50** |
+| **3** | 40.0 | 2 | Falso (Cantidad no es >= 3) | 40 * 2 = **80.00** | 106.50 + 80.00 = **186.50** |
+| **4** | 10.0 | 20 | Falso (Precio no es > 20) | 10 * 20 = **200.00** | 186.50 + 200.00 = **386.50** |
+| **5** | 35.0 | 5 | **Verdadero** (Aplica 15%) | (35 * 5) * 0.85 = **148.75** | 386.50 + 148.75 = **535.25** |
+| **6** | 0.0 | - | No evalúa (Condición de parada) | - | **Sigue en $535.25** (Fin del bucle) |
+
+**Resultado final en pantalla:** El total neto a pagar es: **$535.25**
+
+Tenemos la comprobación de la ejecución del programa 
+
+<img width="831" height="876" alt="image" src="https://github.com/user-attachments/assets/c23c0259-5253-4e12-a772-8de7448944fc" />
 
 
 ---
