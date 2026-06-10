@@ -4,7 +4,9 @@
 <summary><b>🔮 Estructuras Condicionales (Selectivas)</b></summary>
 <blockquote>
 Estas estructuras permiten tomar decisiones dentro de un programa evaluando una expresión lógica
-  ♦️ Tipos de estructuras selectivas     
+  
+  ♦️ Tipos de estructuras selectivas  
+  
 * Simple: Evalúa una condición. Si es verdadera, ejecuta una instrucción; si es falsa, no hace nada
 Diagrama de flujo: Se representa con un rombo para la condición. Si es "Verdadera", baja a la instrucción; si es "Falsa", salta directamente al final.
   
