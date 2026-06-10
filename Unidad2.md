@@ -71,13 +71,6 @@ Pseudocódigo: para vo asignar vi hasta vf incrementar hacer realizar instruccio
 
 <img width="470" height="196" alt="image" src="https://github.com/user-attachments/assets/4d8a9868-3b11-4600-a5e4-65ee0189bd44" />
 
-
-* Conclusión
-Principales Dificultades
-La mayor dificultad radicó en la integración de estructuras, específicamente al anidar el bloque if/else dentro del bucle while. Lograr que el programa tomara decisiones lógicas (condicionales) de forma repetitiva sin perder el control del flujo o generar errores en los cálculos acumulados representó un reto de abstracción importante. También fue complejo asegurar que la condición de parada del bucle no fuera procesada accidentalmente por la lógica del if.
-
-* Reflexión Crítica
-El uso combinado de bucles y condicionales es lo que permite crear programas dinámicos y útiles. A pesar de la dificultad inicial, comprendí que la programación real consiste en gestionar estados: el while mantiene el sistema vivo, mientras que el if gestiona las reglas del negocio. Esta práctica fue clave para desarrollar un pensamiento lógico más estructurado, pasando de seguir instrucciones simples a diseñar procesos automáticos que reaccionan a diferentes entradas del usuario.
   
 </blockquote>
 </details>
@@ -105,7 +98,13 @@ Para incentivar las compras grandes, la tienda aplica una promoción:
 Identificamos los datos de entrada  y elaboramos el codigo en C 
 <img width="908" height="897" alt="image" src="https://github.com/user-attachments/assets/12446802-3b4f-4db7-9514-9eb372077750" />
 
+### Diagrama de flujo 
+
+<img width="3684" height="3964" alt="image" src="https://github.com/user-attachments/assets/cafd8c29-d201-4263-9971-eedc4f1faf35" />
+
+
 #### Prueba de Escritorio - Simulador de Caja Registradora
+
 
 A continuación se detalla el seguimiento paso a paso de las variables durante la ejecución del programa basándose en los datos ingresados en la terminal.
 
@@ -125,6 +124,16 @@ Tenemos la comprobación de la ejecución del programa
 
 <img width="831" height="876" alt="image" src="https://github.com/user-attachments/assets/c23c0259-5253-4e12-a772-8de7448944fc" />
 
+---
+
+### Conclusión
+Principales Dificultades
+La mayor dificultad radicó en la integración de estructuras, específicamente al anidar el bloque if/else dentro del bucle while. Lograr que el programa tomara decisiones lógicas (condicionales) de forma repetitiva sin perder el control del flujo o generar errores en los cálculos acumulados representó un reto de abstracción importante. También fue complejo asegurar que la condición de parada del bucle no fuera procesada accidentalmente por la lógica del if.
+
+---
+
+### Reflexión Crítica
+El uso combinado de bucles y condicionales es lo que permite crear programas dinámicos y útiles. A pesar de la dificultad inicial, comprendí que la programación real consiste en gestionar estados: el while mantiene el sistema vivo, mientras que el if gestiona las reglas del negocio. Esta práctica fue clave para desarrollar un pensamiento lógico más estructurado, pasando de seguir instrucciones simples a diseñar procesos automáticos que reaccionan a diferentes entradas del usuario.
 
 ---
 
