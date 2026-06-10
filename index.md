@@ -3,35 +3,25 @@
 # Carátula
 
 <div align="center">
+ <img width="2362" height="795" alt="image" src="https://github.com/user-attachments/assets/3edf0cac-3a44-42d9-bd6b-73f12f4eb74b" />
+
+  # 🏛️ Universidad Nacional de Loja
   
-### Universidad Nacional de Loja
-![Banner](https://univercimas.com/wp-content/uploads/2021/04/Universidad-Nacional-de-Loja-UNL.png)
+  ## Carrera: Ingeniería en Ciencias de la Computación
+  **Ciclo:** 1°er Ciclo "A" 
+  **Materia:** Teoría de la Programación
 
-**💻CARRERA:**  
-Ingeniería en Ciencias de la Computación
+  ---
 
-**CICLO:**  
-1° er Ciclo "A"
+  👤 **Estudiante:** Josselin Estefania Nero Fernandez  
+  👩‍🏫 **Docente:** Ing. Lissette Geoconda López Faican  
 
-**📚MATERIA:**  
-Teoría de la Programación
+  ---
 
-**NOMBRE:**  
-Josselin Estefania Nero Fernandez
-
-**👩‍🏫DOCENTE:** 
-
-Ing. Lissette Geoconda López Faican
-
-**PERIODO:**  
-Abril-Julio
-
-**FECHA:**  
-4 de mayo de 2026
-
+  📅 **Periodo:** Abril - Julio 2026 • 📆 **Fecha:** 4 de mayo de 2026
 </div>
-
 ---
+
 ## Portafolio 
 
 <p align="center">
@@ -65,3 +55,7 @@ R. Pérez López, "Programación estructurada," Apuntes de clase, IES Doñana, A
 M. Vital-Carrillo, "Estructuras de control para la programación," Vida Científica Boletín de la Escuela Preparatoria No. 4, no. 13, pp. 1-10, 2019
 
 </div>
+
+## Declaración de IA
+
+Yo, Josselin Estefanía Nero Fernández, estudiante del primer ciclo de la carrera de Ingeniería en Ciencias de la Computación en la Universidad Nacional de Loja, declaro haber utilizado herramientas de Inteligencia Artificial como apoyo técnico. Este recurso fue empleado exclusivamente para optimizar la estructura del documento, incluyendo el diseño de tablas, la inserción de imágenes y la organización de espaciados, garantizando así una presentación académica profesional.
