@@ -31,8 +31,26 @@ Pseudocódigo: Consiste en una serie de estructuras Si... entonces... sino una d
 </blockquote>
 </details>
 
+<details>
+<summary><b>🔮 Estructuras Repetitivas (Iterativas o Bucles) (Selectivas)</b></summary>
+<blockquote>  
+Permiten repetir un conjunto de instrucciones un número determinado de veces o mientras se cumpla una condición
+  <summary><b>🍄 Tipos de estructuras selectivas</b></summary>
+<blockquote>
+* Mientras (While): El bucle se repite mientras la condición sea verdadera. Si la condición es falsa desde el inicio, las instrucciones nunca se ejecutan
+  
+Diagrama de flujo: El rombo de condición está al inicio del bucle. Si es verdadera, ejecuta la instrucción y vuelve a la condición
+Pseudocódigo: Mientras condición hacer Realizar instrucciones Fin Mientras
 
+* Hacer Mientras (Do-While): Similar al "mientras", pero las instrucciones se ejecutan al menos una vez, ya que la condición se evalúa al final
 
+Diagrama de flujo: El bloque de instrucciones va primero, seguido por el rombo de condición
+Pseudocódigo: Hacer Realizar instrucciones Mientras condición Fin Mientras
+
+* Desde/Para (For): Se utiliza cuando se conoce de antemano el número de iteraciones. Utiliza una variable índice, un valor inicial y un valor final
+Diagrama de flujo: Incluye la inicialización del índice, la comparación con el valor final, la ejecución de instrucciones y el incremento automático del índice
+Pseudocódigo: para vo asignar vi hasta vf incrementar hacer realizar instrucciones fin para
+  
 </blockquote>
 </details>
 ---
