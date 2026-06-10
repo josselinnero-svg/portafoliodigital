@@ -128,7 +128,7 @@ Tenemos la comprobación de la ejecución del programa
 
 ---
 
-## Portafolio 
+## Indice
 <p align="center">
-*<strong><a href="Portafolio.md">INICIO</a></strong>*
+*<strong><a href="index.md">ÍNDICE</a></strong>*
 </p>
