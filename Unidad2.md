@@ -65,6 +65,14 @@ Pseudocódigo: para vo asignar vi hasta vf incrementar hacer realizar instruccio
   
 </blockquote>
 </details>
+
+* Conclusión
+Principales Dificultades
+La mayor dificultad radicó en la integración de estructuras, específicamente al anidar el bloque if/else dentro del bucle while. Lograr que el programa tomara decisiones lógicas (condicionales) de forma repetitiva sin perder el control del flujo o generar errores en los cálculos acumulados representó un reto de abstracción importante. También fue complejo asegurar que la condición de parada del bucle no fuera procesada accidentalmente por la lógica del if.
+
+* Reflexión Crítica
+El uso combinado de bucles y condicionales es lo que permite crear programas dinámicos y útiles. A pesar de la dificultad inicial, comprendí que la programación real consiste en gestionar estados: el while mantiene el sistema vivo, mientras que el if gestiona las reglas del negocio. Esta práctica fue clave para desarrollar un pensamiento lógico más estructurado, pasando de seguir instrucciones simples a diseñar procesos automáticos que reaccionan a diferentes entradas del usuario.
+
 ---
 
 ## Ejercicio
