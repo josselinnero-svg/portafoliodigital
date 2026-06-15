@@ -96,8 +96,44 @@ Para incentivar las compras grandes, la tienda aplica una promoción:
 * Al salir del bucle, el programa debe mostrar en pantalla el valor final que el cliente debe cancelar.
 
 Identificamos los datos de entrada  y elaboramos el codigo en C 
+```c
+#include <stdio.h>
 
-<img width="908" height="897" alt="image" src="https://github.com/user-attachments/assets/12446802-3b4f-4db7-9514-9eb372077750" />
+int main () {
+    int cantidad;
+    float precio, subtotal, total_pagar = 0;
+
+    do {
+        printf("Ingrese precio de producto: \n");
+        scanf("%f", &precio);
+
+        if (precio != 0) {
+            printf("Ingrese cantidad: \n");
+            scanf("%i", &cantidad);
+
+            subtotal = precio * cantidad;
+
+            if (precio > 20 && cantidad >= 3) {
+                subtotal = subtotal * 0.85;
+                printf("-> Descuento aplicado.\n");
+            }
+
+            total_pagar = total_pagar + subtotal;
+            printf("Subtotal actual de la compra: $%.2f\n", total_pagar);
+        }
+
+    } while (precio != 0);
+
+    printf("\n=============================================\n");
+    printf("Monitoreo de caja finalizado.\n");
+    printf("El precio del producto sin el descuento: $%.2f\n", subtotal);
+    printf("El descuento aplicado en ese producto: %.2f*0.85 \n", subtotal);
+    printf("El total neto a pagar es: $%.2f\n", total_pagar);
+    printf("=============================================\n");
+
+    return 0;
+}
+```
 
 ### Diagrama de flujo 
 
