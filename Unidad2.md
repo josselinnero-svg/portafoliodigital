@@ -126,14 +126,28 @@ Tenemos la comprobación de la ejecución del programa
 
 ---
 
-### Conclusión
-Principales Dificultades
-La mayor dificultad radicó en la integración de estructuras, específicamente al anidar el bloque if/else dentro del bucle while. Lograr que el programa tomara decisiones lógicas (condicionales) de forma repetitiva sin perder el control del flujo o generar errores en los cálculos acumulados representó un reto de abstracción importante. También fue complejo asegurar que la condición de parada del bucle no fuera procesada accidentalmente por la lógica del if.
+### 📝 Conclusión
+
+<table>
+<tr>
+<td>
+<strong>Principales Dificultades</strong><br><br>
+La mayor dificultad radicó en la integración de estructuras, específicamente al anidar el bloque <code>if/else</code> dentro del bucle <code>while</code>. Lograr que el programa tomara decisiones lógicas (condicionales) de forma repetitiva sin perder el control del flujo o generar errores en los cálculos acumulados representó un reto de abstracción importante. También fue complejo asegurar que la condición de parada del bucle no fuera procesada accidentalmente por la lógica del <code>if</code>.
+</td>
+</tr>
+</table>
 
 ---
 
-### Reflexión Crítica
-El uso combinado de bucles y condicionales es lo que permite crear programas dinámicos y útiles. A pesar de la dificultad inicial, comprendí que la programación real consiste en gestionar estados: el while mantiene el sistema vivo, mientras que el if gestiona las reglas del negocio. Esta práctica fue clave para desarrollar un pensamiento lógico más estructurado, pasando de seguir instrucciones simples a diseñar procesos automáticos que reaccionan a diferentes entradas del usuario.
+### 💡 Reflexión Crítica
+
+<table>
+<tr>
+<td>
+El uso combinado de bucles y condicionales es lo que permite crear programas dinámicos y útiles. A pesar de la dificultad inicial, se comprendió que la programación real consiste en gestionar estados: el <code>while</code> mantiene el sistema activo, mientras que el <code>if</code> gestiona las reglas del negocio. Esta práctica fue clave para desarrollar un pensamiento lógico más estructurado, pasando de seguir instrucciones simples a diseñar procesos automáticos que reaccionan a diferentes entradas del usuario.
+</td>
+</tr>
+</table>
 
 ---
 
