@@ -25,17 +25,15 @@
 ## Portafolio 
 
 
-## Unidad 1 🎲
-<p align="center">
-*<strong><a href="Unidad1.md">Unidad1</a></strong>*
-</p>
+## Portafolio
+<div align="center">
 
-## Unidad 2 🕹️
-<p align="center">
-*<strong><a href="Unidad2.md">Unidad2</a></strong>*
-</p>
-
-## Unidad 3 🧩
+| Unidad | Enlace al Contenido |
+| :--- | :---: |
+| Unidad 1 🎲 | [**Ir a Unidad 1**](Unidad1.md) |
+| Unidad 2 🕹️ | [**Ir a Unidad 2**](Unidad2.md) |
+| Unidad 3 🧩 | [**Ir a Unidad 3**](Unidad3.md) |
+</div>
   
 ## Bibliografia
 
