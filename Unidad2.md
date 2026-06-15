@@ -96,6 +96,7 @@ Para incentivar las compras grandes, la tienda aplica una promoción:
 * Al salir del bucle, el programa debe mostrar en pantalla el valor final que el cliente debe cancelar.
 
 Identificamos los datos de entrada  y elaboramos el codigo en C 
+
 <img width="908" height="897" alt="image" src="https://github.com/user-attachments/assets/12446802-3b4f-4db7-9514-9eb372077750" />
 
 ### Diagrama de flujo 
