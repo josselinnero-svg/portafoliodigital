@@ -24,8 +24,6 @@
 
 ## Portafolio 
 
-
-## Portafolio
 <div align="center">
 
 | Unidad | Enlace al Contenido |
