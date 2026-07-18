@@ -28,17 +28,20 @@ Los arreglos son estructuras de datos estáticas donde cada dato individual se d
 * Unidimensionales (Vectores o Listas):
 
   Teoría: Tienen una sola fila y varias columnas.
+  
   Ejemplo de sintaxis: <tipo dato> <identificador> [<núm_elemen>]; por ejemplo: int num
   o char letras.
   
 * Bidimensionales (Matrices):
   
   Teoría: Se componen de varias filas y varias columnas.
+  
   Ejemplo de representación: Se identifican como m[i][j], donde i representa el número de filas y j el número de columnas (ej. int prueba).
   
 * Multidimensionales (Tridimensionales):
   
   Teoría: Incluyen filas, columnas y una dimensión adicional de profundidad.
+  
   Ejemplo de representación: Se definen como m[i][j][k], donde i es la profundidad, j las filas y k las columnas
 
 </blockquote>
