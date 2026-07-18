@@ -11,8 +11,10 @@ Constan de una cabecera (tipo de retorno, nombre y parámetros) y un cuerpo (sen
 <summary><b>🪼 Pase de parámetros </b></summary>
 <blockquote>
 Existen dos formas teóricas de enviar datos a un módulo:
+  
 * Pase por valor (Ejemplo): Se envía únicamente el contenido de la variable (por ejemplo, el valor 5). La función utiliza este dato en sus instrucciones, pero la variable original fuera de la función no se altera
 * Pase por referencia (Ejemplo): Se envía la dirección de memoria de la variable. Esto implica que cualquier cambio realizado dentro de la función afectará directamente a la variable original fuera de ella
+* 
 
 </blockquote>
 </details>
