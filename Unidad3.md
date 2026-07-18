@@ -1,5 +1,5 @@
 ## Unidad 3  🧩
-## Modularidad
+# Modularidad
 La modularización es una técnica de programación orientada a reducir la complejidad de algoritmos largos y complejos mediante la división de un programa grande en subprogramas más pequeños, bajo el principio de "divide y vencerás"
 * Módulos: Estos subprogramas reciben nombres como funciones, procesos, rutinas o sub-rutinas
 * Funciones: Son conjuntos de sentencias que realizan una tarea única e identificable. 
@@ -18,7 +18,7 @@ Existen dos formas teóricas de enviar datos a un módulo:
 </blockquote>
 </details>
 
-## Arreglos (Arrays)
+# Arreglos (Arrays)
 Los arreglos son estructuras de datos estáticas donde cada dato individual se denomina elemento
 * Facilitan el acceso a la información mediante el uso de índices, los cuales siempre comienzan en la posición cero
 <details>
@@ -46,4 +46,23 @@ Los arreglos son estructuras de datos estáticas donde cada dato individual se d
 
 </blockquote>
 </details>
+
+# EJERCICIOS
+## Modularidad 📎
+
+### Ejercicio 1: Por Valor (El Calculador de Descuentos) 🏷️
+En este ejercicio, la función recibe una copia del precio, calcula el descuento y te devuelve el nuevo precio sin modificar la variable original en el main.
+
+Instrucciones:
+* En la función main: Se pide al usuario que ingrese el precio de un artículo (un float).
+
+* Crear la función aplicarIVA:
+
+* Se debe recibir el precio por valor (float precio).
+
+* Adentro, calcular el precio final sumándole el 15% de IVA (multiplicar por 1.15).
+
+* Debe retornar (return) el nuevo precio.
+
+* En el main: Recibe ese resultado, se muéstra en pantalla y se verifica que la variable original del precio no cambió.
 
