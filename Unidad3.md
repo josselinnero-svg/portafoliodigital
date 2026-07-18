@@ -1,4 +1,4 @@
-## Unidad 3
+## Unidad 3  🧩
 ## Modularidad
 La modularización es una técnica de programación orientada a reducir la complejidad de algoritmos largos y complejos mediante la división de un programa grande en subprogramas más pequeños, bajo el principio de "divide y vencerás"
 * Módulos: Estos subprogramas reciben nombres como funciones, procesos, rutinas o sub-rutinas
