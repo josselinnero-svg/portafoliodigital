@@ -129,12 +129,6 @@ Como podemos observar todo esta en lo correcto.
 ### Reflexión
 Durante esta unidad, he profundizado en conceptos fundamentales de programación y en el manejo de herramientas esenciales para el desarrollo de software. PSeInt ha resultado ser una plataforma excepcional para la introducción al pensamiento algorítmico, facilitando la comprensión de la definición de variables, la estructura secuencial y el ciclo de entrada-proceso-salida. Asi mismo, la representación mediante diagramas de flujo ha sido clave para visualizar la lógica de control de manera clara. Por otro lado, la transición al lenguaje C ha permitido identificar las ventajas de un lenguaje de alto rendimiento, destacando que, aunque cada herramienta posee su propia sintaxis, la base lógica es universal e indispensable para el aprendizaje autónomo.
 
-**Declaración uso de IA**
-
-Yo, Josselin Estefanía Nero Fernández, estudiante del primer ciclo de la carrera de Ingeniería en Ciencias de la Computación en la Universidad Nacional de Loja, declaro haber utilizado herramientas de Inteligencia Artificial como apoyo técnico. Este recurso fue empleado exclusivamente para optimizar la estructura del documento, incluyendo el diseño de tablas, la inserción de imágenes y la organización de espaciados, garantizando así una presentación académica profesional.
-
-
-
 </div>
 
 ---
