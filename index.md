@@ -33,28 +33,23 @@
 | Unidad 3 🧩 | [**Ir a Unidad 3**](Unidad3.md) |
 </div>
   
-## Bibliografia
+## Bibliografía
 
 <details>
 <summary><b>🔗 Fuentes de consulta:</b></summary>
-<blockquote> 
- 
-[Qué son los Algoritmos: Tipos y Guía completa - CodigoNautas](https://codigonautas.com/que-son-algoritmos/)  
-*Publicado por L. Byte el 16 de septiembre de 2025.*
+<blockquote>
 
-[Qué es pseudocódigo y por qué es esencial en programación - OpenWebinars](https://openwebinars.net/blog/que-es-pseudocodigo/)  
-*Autor: A. Robledano (23 de sept. 2024)*
+[1] L. Byte, «Qué son los Algoritmos: Tipos y Guia completa - CodigoNautas», *CodigoNautas*, 16 de septiembre de 2025. [En línea]. Disponible en: https://codigonautas.com/que-son-algoritmos/. [Accedido: 18-jul-2026].
 
-[Qué es C: Comandos Básicos y Ejemplos - CodigoNautas](https://codigonautas.com/que-es-c/)  
-*Autor: L. Byte (22 de abr. 2025)*
+[2] A. Robledano, «Qué es pseudocódigo y por qué es esencial en programación - OpenWebinars», *OpenWebinars*, 23 de septiembre de 2024. [En línea]. Disponible en: https://openwebinars.net/blog/que-es-pseudocódigo/. [Accedido: 18-jul-2026].
 
-R. Pérez López, "Programación estructurada," Apuntes de clase, IES Doñana, Almonte, España, mayo 2026.
+[3] L. Byte, «Qué es C: Comandos Básicos y Ejemplos - CodigoNautas», *CodigoNautas*, 22 de abril de 2025. [En línea]. Disponible en: https://codigonautas.com/que-es-c/. [Accedido: 18-jul-2026].
 
-M. Vital-Carrillo, "Estructuras de control para la programación," Vida Científica Boletín de la Escuela Preparatoria No. 4, no. 13, pp. 1-10, 2019
+[4] R. Pérez López, «Programación estructurada», Apuntes de clase, IES Doñana, Almonte, España, mayo 2026.
 
-Guerra Salazar, J. E, Ramos Valencia,M. V, Vallejo Vallejo, G. E. (2023). Programando en C desde la práctica problemas resueltos. Puerto Madero Editorial. Disponible en: https://dialnet.unirioja.es/servlet/libro?codigo=933288 
+[5] M. Vital-Carrillo, «Estructuras de control para la programación», *Vida Científica Boletín de la Escuela Preparatoria No. 4*, vol. 7, n.º 13, pp. 1-10, 2019.
 
-</div>
+[6] J. E. Guerra Salazar, M. V. Ramos Valencia y G. E. Vallejo Vallejo, *Programando en C desde la práctica problemas resueltos*. Editorial Puerto Madero, 2023. [En línea]. Disponible en: https://dialnet.unirioja.es/servlet/libro?codigo=933288. [Accedido: 18-jul-2026].
 
 </blockquote>
 </details>
