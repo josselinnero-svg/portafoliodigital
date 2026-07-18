@@ -51,6 +51,12 @@
 
 [6] J. E. Guerra Salazar, M. V. Ramos Valencia y G. E. Vallejo Vallejo, *Programando en C desde la práctica problemas resueltos*. Editorial Puerto Madero, 2023. [En línea]. Disponible en: https://dialnet.unirioja.es/servlet/libro?codigo=933288. [Accedido: 18-jul-2026].
 
+[7] Universidad Nacional de Loja, "Programación modular y estructura de datos estáticas," Teoría de la Programación, Unidad 3, Tema 1, 2026.
+
+[8] Universidad Nacional de Loja, "Programación modular y estructura de datos estáticas," Teoría de la Programación, Unidad 3, Tema 2, 2026
+
+[9]  M. Goin, Caminando junto al Lenguaje C. Editorial UNRN, 2022
+
 </blockquote>
 </details>
 
