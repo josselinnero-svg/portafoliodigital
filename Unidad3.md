@@ -94,7 +94,7 @@ int main() {
 // Función que recibe por VALOR
 float aplicarDescuento(float precio) {
     float resultado;
-    resultado = precio * 0.85; // Aplica un 15% de descuento
+    resultado = precio * 0.15 ; // Aplica un 15% de descuento
     return resultado;
 }
 
