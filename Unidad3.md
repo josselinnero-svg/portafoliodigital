@@ -54,15 +54,21 @@ Los arreglos son estructuras de datos estáticas donde cada dato individual se d
 En este ejercicio, la función recibe una copia del precio, calcula el descuento y te devuelve el nuevo precio sin modificar la variable original en el main.
 
 Instrucciones:
-* En la función main: Se pide al usuario que ingrese el precio de un artículo (un float).
+* En la función main: Pide al usuario que ingrese el precio de un artículo (un float).
 
-* Crear la función aplicarIVA:
+* Crea la función aplicarDescuento:
 
-* Se debe recibir el precio por valor (float precio).
+* Debe recibir el precio por valor (float precio).
 
-* Adentro, calcular el precio final sumándole el 15% de IVA (multiplicar por 1.15).
+* Adentro, calcula el precio final restándole el 15% de descuento (multiplicar por 0.85).
 
 * Debe retornar (return) el nuevo precio.
+
+* En el main: Recibe ese resultado, muéstralo en pantalla y verifica que la variable original del precio no cambió.
+
+ Tenemos el siguiente codigo en C 
+ 
+ 
 
 * En el main: Recibe ese resultado, se muéstra en pantalla y se verifica que la variable original del precio no cambió.
 
