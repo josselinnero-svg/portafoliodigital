@@ -246,7 +246,7 @@ int main() {
 }
  ```
 
-## ⚠️ Principales dificultades y reflexión crítica
+
 
 ### 🔴 Principales dificultades
 * **Confusión conceptual en la modularidad:** Al inicio se me complicó un poco aplicar la modularidad de forma limpia, ya que tendía a mezclar varios conceptos al mismo tiempo (como el uso adecuado de parámetros por valor vs. por referencia, el manejo de punteros `*` y `&`, y cuándo una función debía retornar un valor o ser de tipo `void`).
