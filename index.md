@@ -72,3 +72,15 @@ Yo, Josselin Estefanía Nero Fernández, estudiante del primer ciclo de la carre
 
 </blockquote>
 </details>
+
+## Conclusiones 
+<details>
+<summary><b>📌 Generales </b></summary>
+<blockquote> 
+
+* **Estructuración y Lógica de Programación (Unidad 1):** La comprensión de las estructuras de control y los tipos de datos básicos sentó las bases para el desarrollo de algoritmos lógicos, permitiendo resolver problemas estructurados mediante decisiones condicionales y ciclos repetitivos eficientes.
+* **Modularidad y Gestión de Memoria (Unidad 2):** La implementación de funciones y la distinción entre el paso de parámetros por valor y por referencia demostró ser indispensable para escribir código limpio, reutilizable y mantenible, optimizando el uso de la memoria mediante el manejo adecuado de punteros.
+* **Manipulación de Datos Complejos (Unidad 3):** El trabajo con arreglos unidimensionales, bidimensionales y tridimensionales permitió estructurar y procesar colecciones de datos de mayor escala, consolidando la capacidad de diseñar soluciones algorítmicas robustas aplicables a problemas del mundo real.
+
+</blockquote>
+</details>
