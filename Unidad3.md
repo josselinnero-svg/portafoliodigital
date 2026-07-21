@@ -101,6 +101,11 @@ float aplicarDescuento(float precio) {
 * En el main: Recibe ese resultado, se muéstra en pantalla y se verifica que la variable original del precio no cambió.
 
 ```
+
+Este es el resultado en la terminal
+
+<img width="268" height="75" alt="image" src="https://github.com/user-attachments/assets/fdb772cb-7673-4e7b-be67-06b008e794ee" />
+
 ### Ejercicio 2: Por Referencia (El Intercambiador de Puntos)
 Aquí no se va a usar return. La función recibirá las direcciones de memoria de dos variables usando punteros (*) y modificará sus valores directamente.
 
@@ -151,6 +156,10 @@ void intercambiarPuntajes(int *ptrA, int *ptrB) {
     *ptrB = aux;
 }
 ```
+Este es el resultado en la terminal
+
+<img width="357" height="106" alt="image" src="https://github.com/user-attachments/assets/63971028-0722-44d9-8712-05cfb98b91c7" />
+
 
 # Ejercicios de Arreglos (Arrays) en C
 
@@ -183,6 +192,10 @@ int main() {
     return 0;
 }
  ```
+Este es el resultado en la terminal
+
+<img width="203" height="102" alt="image" src="https://github.com/user-attachments/assets/9439a751-f058-469e-aaf5-970402c28dde" />
+
 ## Arreglo Bidimensional 
 
 ```c
@@ -209,6 +222,12 @@ int main() {
     return 0;
 }
  ```
+
+
+Este es el resultado en la terminal
+
+<img width="233" height="72" alt="image" src="https://github.com/user-attachments/assets/35dfb8ea-b61e-401e-bf39-869ef3748d62" />
+
 ## Arreglo Tridimensional
 
 ```c
@@ -245,6 +264,10 @@ int main() {
     return 0;
 }
  ```
+
+Este es el resultado en la terminal
+
+<img width="203" height="140" alt="image" src="https://github.com/user-attachments/assets/1700660e-5bd3-4abf-b72e-fa2e8b895e31" />
 
 
 
