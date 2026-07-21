@@ -244,4 +244,22 @@ int main() {
 
     return 0;
 }
-´´´
+ ```
+
+## ⚠️ Principales dificultades y reflexión crítica
+
+### 🔴 Principales dificultades
+* **Confusión conceptual en la modularidad:** Al inicio se me complicó un poco aplicar la modularidad de forma limpia, ya que tendía a mezclar varios conceptos al mismo tiempo (como el uso adecuado de parámetros por valor vs. por referencia, el manejo de punteros `*` y `&`, y cuándo una función debía retornar un valor o ser de tipo `void`).
+* **Control de índices en arreglos multidimensionales:** En la transición hacia arreglos bidimensionales y tridimensionales, el manejo de múltiples ciclos de lectura y recorrido anidados (`for`) representó un reto para no perder el rastro del orden correcto de capas, filas y columnas.
+
+### 💡 Reflexión crítica
+El desarrollo de estos ejercicios me permitió comprender que escribir código funcional no es suficiente; la **estructuración y legibilidad** son aspectos fundamentales en la ingeniería de software. La modularidad no solo ayuda a desglosar problemas complejos en partes más pequeñas y manejables, sino que también facilita enormemente la depuración y reutilización del código. 
+
+Aprender a diferenciar entre el paso por valor y por referencia me dio una visión más clara de cómo se administra la memoria en C. Asimilar estos conceptos fue clave para abordar los arreglos con mayor lógica, pasando de una programación lineal a una estructura mucho más ordenada, escalable y mantenible.
+
+---
+
+## Indice
+<p align="center">
+*<strong><a href="index.md">ÍNDICE</a></strong>*
+</p>
