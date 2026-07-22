@@ -106,59 +106,45 @@ Este es el resultado en la terminal
 
 <img width="268" height="75" alt="image" src="https://github.com/user-attachments/assets/fdb772cb-7673-4e7b-be67-06b008e794ee" />
 
-### Ejercicio 2: Por Referencia (El Intercambiador de Puntos)
-Aquí no se va a usar return. La función recibirá las direcciones de memoria de dos variables usando punteros (*) y modificará sus valores directamente.
+### Ejercicio 2: Paso por Referencia (Transmutador Alquímico)
 
-Instrucciones:
-* En la función main: Declare dos variables enteras, por ejemplo: int jugadorA = 10; y int jugadorB = 50;. Muéstralas en pantalla antes de llamar a la función.
+* **Concepto:** Modificación directa de recursos en memoria sin usar `return`.
+* **Descripción:** Una función convierte monedas de plata en oro (10 de plata = 1 de oro) alterando directamente los valores almacenados en las direcciones de memoria de la billetera.
 
-* Se crea la función intercambiarPuntajes:
-
-* Debe ser de tipo void (no retorna nada).
-
-* Debe recibir dos parámetros por referencia usando punteros (ej. int *ptrA, int *ptrB).
-
-* Dentro, se utiliza una variable auxiliar (int aux;) para intercambiar los valores de las dos direcciones de memoria.
-
-* En el main: Llamamos a la función pasándole las direcciones con el ampersand (intercambiarPuntajes(&jugadorA, &jugadorB);). Se Vuelve a imprimir las variables y se evidencia que ahora el jugadorA vale 50 y el jugadorB vale 10.
-  
- Tenemos el siguiente codigo en C 
- ```c
+```c
 #include <stdio.h>
 
-// Prototipo de la función
-void intercambiarPuntajes(int *ptrA, int *ptrB);
+// Prototipo de la función (recibe por REFERENCIA las monedas)
+void transmutarMonedas(int *ptrOro, int *ptrPlata);
 
 int main() {
-    int jugadorA = 10;
-    int jugadorB = 50;
+    int misMonedasOro = 5;
+    int misMonedasPlata = 34;
 
-    printf("=== PASO POR REFERENCIA: INTERCAMBIO DE PUNTAJES ===\n");
-    printf("Valores iniciales:\n");
-    printf("Jugador A: %i\n", jugadorA);
-    printf("Jugador B: %i\n", jugadorB);
+    printf("=== BILLETERA ALQUÍMICA (PASO POR REFERENCIA) ===\n");
+    printf("Antes del hechizo:\n");
+    printf("Oro: %i | Plata: %i\n", misMonedasOro, misMonedasPlata);
 
-    // Se envían las direcciones de memoria usando '&'
-    intercambiarPuntajes(&jugadorA, &jugadorB);
+    // Pasamos las direcciones de memoria de la billetera con '&'
+    transmutarMonedas(&misMonedasOro, &misMonedasPlata);
 
-    printf("\nValores despues del intercambio:\n");
-    printf("Jugador A: %i\n", jugadorA);
-    printf("Jugador B: %i\n", jugadorB);
+    printf("\nDespues del hechizo (10 de plata = 1 de oro):\n");
+    printf("Oro: %i | Plata: %i\n", misMonedasOro, misMonedasPlata);
 
     return 0;
 }
 
-// Función que recibe por REFERENCIA
-void intercambiarPuntajes(int *ptrA, int *ptrB) {
-    int aux;
-    aux = *ptrA;
-    *ptrA = *ptrB;
-    *ptrB = aux;
+// La función convierte cada 10 monedas de plata en 1 de oro
+void transmutarMonedas(int *ptrOro, int *ptrPlata) {
+    int oroNuevo = *ptrPlata / 10;   // Calcula cuánto oro sale
+    *ptrPlata = *ptrPlata % 10;      // Deja el residuo
+    *ptrOro = *ptrOro + oroNuevo;    // Modifica el oro original en memoria
 }
 ```
 Este es el resultado en la terminal
 
-<img width="357" height="106" alt="image" src="https://github.com/user-attachments/assets/63971028-0722-44d9-8712-05cfb98b91c7" />
+<img width="280" height="79" alt="image" src="https://github.com/user-attachments/assets/d8f56a98-7ba3-4dbb-ba54-c50c3077cdab" />
+
 
 
 # Ejercicios de Arreglos (Arrays) en C
